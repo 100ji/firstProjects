@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#nav{
+    background-color: teal;
+    overflow: auto;
+}
+
+li{
+    float: left;
+    list-style: none;
+    color: white;
+}
+ul li:nth-child(1) :hover{
+   background-color: teal;
+
+}
+
+li a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+li a:hover{
+    background-color: black;
+    color: white;
+}
