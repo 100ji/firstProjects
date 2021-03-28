@@ -15,10 +15,8 @@ li{
     color: white;
 }
 ul li:nth-child(1) :hover{
-   background-color: teal;
-
+   background-color:brown;
 }
-
 li a{
     color: white;
     text-decoration: none;
